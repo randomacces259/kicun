@@ -15,6 +15,9 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ywxegdmgw1cqaqd3acq
 https://livecloud-slit.akamaized.net/sports/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmOTE3NzQwNyYmMTEwNzE1ODQmJjkxNzc0MDcxMTA3MTU4NEQwJiZm/hdntl=exp=1742053850~acl=*%2fentry%2f*~data=hdntl~hmac=6a609d732bed1960b454d825bfbf2d20dcdb0e552cf00ebffcff5488e144080c/chunklist_480.stream.m3u8
  
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",SBS
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDIwNzQzNTMsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI4NmNhOTQ2ZC0yODFkLTRlODYtODlkZS0yZDFlYjEwNDA2MDciLCJpYXQiOjE3NDIwNzQxNzN9.pc4CVotb-Xg4mDFBY1ayfFZx_XxeX5lO7mrY22K6TJI&solsessionid=69104ba5fe1712b553460f1a7cace556
+
+
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
  
 ##########################################################################################################################################################################
