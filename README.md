@@ -1,6 +1,6 @@
 =====================================================================VOLLY=============================================================
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png", SBS Sport
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/364hyzaiydsham2kr0onwcywkebd3u3ojvmo/hdntl=exp=1742053794~acl=*%2f364hyzaiydsham2kr0onwcywkebd3u3ojvmo%2f*~data=hdntl~hmac=abaa7a4347508894065af3a0aafe53d504704100aa5c30dde981e8cb98e983c0/chunklist_360.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/364hyzaiydsham2kr0onwcywkebd3u3ojvmo/hdntl=exp=1742053794~acl=*%2f364hyzaiydsham2kr0onwcywkebd3u3ojvmo%2f*~data=hdntl~hmac=abaa7a4347508894065af3a0aafe53d504704100aa5c30dde981e8cb98e983c0/chunklist_480.stream.m3u8
 
 #https://janda-korea.triwied77.workers.dev/index.mpd?id=20250309021F234
 
