@@ -14,8 +14,7 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ywxegdmgw1cqaqd3acq
 https://livecloud-slit.akamaized.net/sports/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmOTE3NzQwNyYmMTEwNzE1ODQmJjkxNzc0MDcxMTA3MTU4NEQwJiZm/hdntl=exp=1742053850~acl=*%2fentry%2f*~data=hdntl~hmac=6a609d732bed1960b454d825bfbf2d20dcdb0e552cf00ebffcff5488e144080c/chunklist_480.stream.m3u8
  
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",SBS
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/6686_stream.mpd 
-
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/6786/primary/720p/v-720p-1741632332_42583326000.m4s?hdntl=exp=1742105811~acl=/drm/dash/6786*~id=121579291~data=hdntl~hmac=b840a6e0898aabd6dfdf1ab8330c2a4b0782bfaceb4bc36bad289d1f5bc036fd
 
 
 
