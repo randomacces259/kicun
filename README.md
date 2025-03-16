@@ -14,7 +14,28 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ywxegdmgw1cqaqd3acq
 https://livecloud-slit.akamaized.net/sports/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmOTE3NzQwNyYmMTEwNzE1ODQmJjkxNzc0MDcxMTA3MTU4NEQwJiZm/hdntl=exp=1742053850~acl=*%2fentry%2f*~data=hdntl~hmac=6a609d732bed1960b454d825bfbf2d20dcdb0e552cf00ebffcff5488e144080c/chunklist_480.stream.m3u8
  
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",SBS
-https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDIwNzQzNTMsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI4NmNhOTQ2ZC0yODFkLTRlODYtODlkZS0yZDFlYjEwNDA2MDciLCJpYXQiOjE3NDIwNzQxNzN9.pc4CVotb-Xg4mDFBY1ayfFZx_XxeX5lO7mrY22K6TJI&solsessionid=69104ba5fe1712b553460f1a7cace556
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/6686_stream.mpd hdntl=exp=1742105308~acl=%2fdrm%2fdash%2f6686*~id=121579291~data=hdntl~hmac=8790dc6a20a4c4aefb3164c6997e6917568dfaf571ed70a2b136e9431f6c67f2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 menampilkan playlist >>> KNOWLEDGE //======================================================================== #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11792 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/natgeo.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/86 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/natgeo_wild.png" group-title="KNOWLEDGE",NAT GEO WILD http://103.113.116.150:25461/hometv@150/Wdk8VzyYTG/87 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/animal_planet.png" group-title="KNOWLEDGE",ANIMAL PLANET http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11793 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/bbc_earth.png" group-title="KNOWLEDGE",BBC EARTH Auto Reso #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://www.visionplus.id/ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/history.png" group-title="KNOWLEDGE",HISTORY Auto Reso #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://www.visionplus.id/ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/crime_invest.png" group-title="KNOWLEDGE",CRIME INVESTIGATION Auto Reso #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://www.visionplus.id/ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/cgtn_doc.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY Auto Reso #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://www.visionplus.id/ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/love_nature.png" group-title="KNOWLEDGE",LOVE NATURE Auto Reso #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://www.visionplus.id/ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/smithsonian.png" group-title="KNOWLEDGE",SMITHSONIAN Auto Reso http://103.127.209.247:8080/nvc247@home02/KznKIpJOV0/38.m3u8 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/nasa.png" group-title="KNOWLEDGE",NASA TV #https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
