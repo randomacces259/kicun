@@ -5,7 +5,7 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/364hyzaiydsham2kr0o
 #https://janda-korea.triwied77.workers.dev/index.mpd?id=20250309021F234
 
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="EVENT", KBSN SPORTS 
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f/hdntl=exp=1742133427~acl=*%2fvsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f%2f*~data=hdntl~hmac=0cb6f17e1cd4591ebdd021a006a6935443986f3e2a97bb700d13e9d5baf8c319/chunklist_360.stream.m3u8
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f/hdntl=exp=1742133427~acl=*%2fvsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f%2f*~data=hdntl~hmac=0cb6f17e1cd4591ebdd021a006a6935443986f3e2a97bb700d13e9d5baf8c319/chunklist_720.stream.m3u8
 
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="EVENT",KBS 1TV
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ywxegdmgw1cqaqd3acq76l6ozkttciuf8ao5/hdntl=exp=1742053745~acl=*%2fywxegdmgw1cqaqd3acq76l6ozkttciuf8ao5%2f*~data=hdntl~hmac=8791cc9978e69f3b79705846444544ad5fcd41f4741f5e0a83752c3f6da26817/chunklist_480.stream.m3u8
