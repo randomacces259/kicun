@@ -5433,8 +5433,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 
+#EXTINF:-1 group-title="🇧🇪 | PLAY SPORTS" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/play_sports3.png",PLAY SPORTS 1 Auto Reso #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/838.mpd 
+#EXTINF:-1 group-title="🇧🇪 | PLAY SPORTS" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/play_sports3.png",PLAY SPORTS 2 Auto Reso #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/839.mpd 
+#EXTINF:-1 group-title="🇧🇪 | PLAY SPORTS" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/play_sports3.png",PLAY SPORTS 3 Auto Reso #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/840.mpd
 
-
-
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 1 Auto Reso #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/818.mpd 
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 2 Auto Reso #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/819.mpd 
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 3 Auto Reso 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/820.mpd 
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 4 Auto Reso 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/821.mpd 
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 5 Auto Reso 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/822.mpd
 
 
