@@ -1570,7 +1570,7 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 
  
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JhkbGcv.png" group-title="BSPORTS",Sportv
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://iili.io/JhkbGcv.png" group-title="SPORTS",Sportv
 https://super-cdn.link/sportv/index.m3u8
  
 #EXTINF:-1 tvg-id="Sportv.2.br" tvg-logo="https://iili.io/JhkbYt1.png" group-title="SPORTS",Sportv 2
