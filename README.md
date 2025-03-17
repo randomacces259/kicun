@@ -1605,7 +1605,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
- 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ayvQ7MU.png" group-title="KNOWLEDGE",BBC Earth
+https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1617,10 +1623,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
-
-#EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://i.imgur.com/JfRjGcP.png" group-title="KNOWLEDGE",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
- 
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1646,19 +1648,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zm6CvRbDTAE/maxresdefault.jpg" group-title="KNOWLEDGE",Discovery Science
-https://github.com/hendroagung2904/SourcePlaylist/raw/refs/heads/main/DiscoveryScience.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhbXgJdwfJNpUH1IMkMTEL1ZNONfDvd7CvA&s" group-title="KNOWLEDGE",Discovery Turbo
-https://github.com/hendroagung2904/SourcePlaylist/raw/refs/heads/main/DiscoveryTurboEnglish.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ayvQ7MU.png" group-title="KNOWLEDGE",BBC Earth
-https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 
 #EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.imgur.com/U139AVK.png" group-title="KNOWLEDGE",HGTV 
@@ -1698,9 +1687,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rB2wDv.png" group-title="KNOWLEDGE",Russia Today Documentary English
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/9ETu8DD.png" group-title="KNOWLEDGE", INSIGHT
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-####################################################################################################################################
+################################################################################################################################
 #EXTM3U
 #EXTM3U
 #
@@ -1750,15 +1737,7 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm
 #https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
-
-
-
 ######################################################################SPORT############################################################################################################################################# 
-
-
-
-
-
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS",Soccer Channel
@@ -1959,18 +1938,18 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5gScg4z1/Sportv1.png" group-title="SPORTS",SportTv 1 Brazil
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gScg4z1/Sportv1.png" group-title="SPORTS",SportTv 1 Brazil
 #http://super-cdn.link/sportv/index.m3u8
 
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/d4ZYNQbQ/Sportv2.png" group-title="SPORTS",SportTv 2 Brazil
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4ZYNQbQ/Sportv2.png" group-title="SPORTS",SportTv 2 Brazil
 #http://super-cdn.link/sportv2/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfNv4hfT/Sportv3.png" group-title="SPORTS",SportTv 3 Brazil
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HfNv4hfT/Sportv3.png" group-title="SPORTS",SportTv 3 Brazil
 #http://super-cdn.link/sportv3/index.m3u8
 
 
@@ -4374,4 +4353,4 @@ http://extraott.com/live/6945574629/7169628753/710940.ts
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORTS",SKYSports MK 2_SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
-@
+
