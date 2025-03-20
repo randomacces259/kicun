@@ -2342,6 +2342,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
 https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://fescenter.org/wp-content/uploads/2014/01/discovery-logo-780x390.jpg" group-title="KNOWLEDGE",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://webhdrunns.mizhls.ru/lb/premium313/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+###https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+##http://xtv.ooo:8080/6301638/5295385/350955
+##https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/64
+##https://kusnadipepenk.github.io/ntn/discasia.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dcch.png" group-title="KNOWLEDGE",Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2349,7 +2356,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crim
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
+###EXTINF:-1 tvg-logo="https://media-prod.press.discovery.com/ugc/logos/2012/12/19/Science-logo-horizontal.jpg" group-title="KNOWLEDGE",Discovery Science
+###https://kusnadipepenk.github.io/ntn/discien.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kusnadipepenk/pajal/refs/heads/main/pajal.png" group-title="KNOWLEDGE",DISCOVERY Turbo
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="KNOWLEDGE",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -2391,10 +2405,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="KNOWLEDGE" tvg-id="" tvg-name="", Outdoor Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
-EXTIg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="KNOWLEDGE",IN WILD
+#EXTIg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="KNOWLEDGE",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kusnadipepenk/pajal/refs/heads/main/pajal.png" group-title="KNOWLEDGE",Smithsonian
+##http://38.143.51.220:9981/stream/channelid/870566994?profile=pass
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
 
 
 
@@ -2408,6 +2426,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 #EXTINF:-1 tvg-name="603" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FMetro%20Globe%20Network%201025x766.jpg?alt=media&token=8bd00f36-bccb-4257-8028-c47498326a0a" group-title="KNOWLEDGE",METRO GLOBE NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
+###EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="KNOWLEDGE",TRVL CH
+###https://kusnadipepenk.github.io/campeign/trvl.m3u8
 
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rB2wDv.png" group-title="KNOWLEDGE",Russia Today Documentary English
