@@ -8,12 +8,14 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0003/po7ikmmbctjx93frlq4
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="EVENT", KBSN SPORTS 
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f/hdntl=exp=1742133427~acl=*%2fvsnvsc8qdwcxqxuemwxhuh8v0w3ae1kund4f%2f*~data=hdntl~hmac=0cb6f17e1cd4591ebdd021a006a6935443986f3e2a97bb700d13e9d5baf8c319/chunklist_480.stream.m3u8
 
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://iili.io/JmoPytR.png" group-title="EVENT",KBS 1TV
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/ywxegdmgw1cqaqd3acq76l6ozkttciuf8ao5/hdntl=exp=1742053745~acl=*%2fywxegdmgw1cqaqd3acq76l6ozkttciuf8ao5%2f*~data=hdntl~hmac=8791cc9978e69f3b79705846444544ad5fcd41f4741f5e0a83752c3f6da26817/chunklist_480.stream.m3u8
- 
+#EXTINF:-1 tvg-id="golfzone" tvg-logo="https://iili.io/JmoPytR.png" group-title="EVENT",golfzone
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/1080/hdntl=exp=1742677640~acl=*%2Fentry%2F*~data=hdntl~hmac=e51991201532d42f0a464fedfb258c4aac45233a2f2951da68514d2879d873da/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="EVENT",KBS 2TV
-https://livecloud-slit.akamaized.net/sports/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmOTE3NzQwNyYmMTEwNzE1ODQmJjkxNzc0MDcxMTA3MTU4NEQwJiZm/hdntl=exp=1742053850~acl=*%2fentry%2f*~data=hdntl~hmac=6a609d732bed1960b454d825bfbf2d20dcdb0e552cf00ebffcff5488e144080c/chunklist_480.stream.m3u8
- 
+https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmMzEyODcwJiY0OTU5OTUwJiYzMTI4NzA0OTU5OTUwRDAmJmY/720/hdntl=exp=1742677703~acl=*%2Fentry%2F*~data=hdntl~hmac=8f590d7d4f45205fbddd6504e779b73c4b05fd5b8be253f4315052bb139ee389/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="SBS" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",SBS
 https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/6786/primary/720p/v-720p-1741632332_42583326000.m4s?hdntl=exp=1742105811~acl=/drm/dash/6786*~id=121579291~data=hdntl~hmac=b840a6e0898aabd6dfdf1ab8330c2a4b0782bfaceb4bc36bad289d1f5bc036fd
 
