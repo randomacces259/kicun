@@ -2318,6 +2318,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
 ######################################################################KNOWLEDGE############################################################################################################################################# 
 
+#EXTINF:-1 tvg-id="" tvg-name="HR: ANIMAL PLANET" tvg-logo="" group-title="KNOWLEDGE",ANIMAL PLANET
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137131
+
+
+
+
+
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://i.ytimg.com/vi/TnWPwWCrKcY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBW4hbPJm9z6Sq0udfTmgXsi5-vXQ" group-title="KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2335,6 +2342,20 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-
 #KODIPROP:inputstream.adaptive.license_key=87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgLgQfBJBeosDrHmtU_JV0qtK4eg",CGTN Documentary
 https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Discovery Science" tvg-logo="" group-title="KNOWLEDGE",Discovery Science
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137023
+#EXTINF:-1 tvg-id="" tvg-name="RS: Discovery World" tvg-logo="" group-title="KNOWLEDGE",Discovery World
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137024
+#EXTINF:-1 tvg-id="" tvg-name="RS: Diva" tvg-logo="" group-title="📺EX-YU⭐📺",⭐RS: Diva
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137025
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2362,6 +2383,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8J_URTxUFyGgysJ9xl7Eu4v4gat7-lo5UARZfpA1WSTG0oGZADNMlddNheUg02F2WQrUph8ZGKZTiq2duGHmpR3leoBDtgfr4bzQUj1TsshJwBANMcOnz7hyo3HqOcv-X8gXVEjffSD-MT7VFlgpYyPsjvK-Df6QQBtMnOmqkimmrAF8uNMwmKpiceTy/s700/OUTDOOR%20CHANNEL.png" group-title="KNOWLEDGE,⭐ OUTDOOR CHANNEL
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+#EXTINF:-1 tvg-id=""  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6PVY1M9RQsuRVREe5zmwK7l_Ic94K7OJJGRL5q8f7FBO3IOF1dlKPqqQqnYW190GMnc9MNYefKrirTTYR0G82wWkThWOR2GOpUvFbVlqIBQSTFGOnectN3hpnkJac38qG-3FaGoObPOnOstvU69Pw7fyzRLIGj-0gA1ZrRgVSl26RPPaPxGrM7PLWHLb/s700/LOVE%20NATURE.png" group-title="KNOWLEDGE",⭐ LOVE NATURE
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO" tvg-logo="" group-title="KNOWLEDGE",NAT GEO
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137048
+#EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO Wild" tvg-logo="" group-title="KNOWLEDGE",NAT GEO Wild
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/137049
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2444,12 +2482,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" ch-number="114", SPORTSTARS 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mycentral.my.id/ctv1/sc/CTV_ss3/punya_CENTRALTV_kalau_ada_yang_make_berarti_itu_IPTV_abal-abal.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHvNKcF7jY2608scGuSLYaQWFE8cJTP7byHm6ewhLwlkUv9bH7mO8tfRCE9GhVfKluV-LFqEa5FpdmE24AX2M2mb8GOHcgO3BUitRdvPRODmFLTFAkew4HPlxf0NWVXvxQde93hYOr8jcHufV1oiHhhNQIWonGP79556KOT4aqPM1OIRQXJvep0B4nZp0v/s700/SPORTSTARS%203.png" group-title="SPORTS",⭐ SPORTSTARS 3
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS", SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
