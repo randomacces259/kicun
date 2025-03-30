@@ -1424,19 +1424,17 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd/
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
  
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports Premium 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd/
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://iili.io/2MEFfFj.png" group-title="SPORTS",Starzplay Sports
-#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd/
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
