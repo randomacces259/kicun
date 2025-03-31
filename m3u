@@ -2022,6 +2022,15 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 ######################################################################KNOWLEDGE############################################################################################################################################# 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="KNOWLEDGE", ANIMAL PLANET
+http://203.77.246.14:8001/udp/239.1.2.226:5000
+http://203.77.246.14:8001/udp/239.1.2.136:5000
+
+
+
+
+
+
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://i.ytimg.com/vi/TnWPwWCrKcY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBW4hbPJm9z6Sq0udfTmgXsi5-vXQ" group-title="KNOWLEDGE",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2045,6 +2054,29 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+
+
+#EXTINF: -1 tvg-id="discoveryscience" tvg-logo="https://i.imgur.com/DFY4pRr.png" group-title="KNOWLEDGE", DISCOVERY SCIENCE
+https://dl.dropboxusercontent.com/scl/fi/ard78iycy7c0ips0yavml/discovery-science.m3u8?rlkey=7erwiee990y0p4njhfkp5ak6n
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-id="discoveryturbo" tvg-logo="https://i.imgur.com/VPKT4nb.png" group-title="KNOWLEDGE", DISCOVERY TURBO
+https://dl.dropboxusercontent.com/scl/fi/j420gzennjlg9uzvkgqbx/discovery-turbo.m3u8?rlkey=8a53gh6k0w3kp41ylm8p5tqsl
+
+
+
+
+
+
+
+
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2088,6 +2120,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://i.imgur.com/DTV3Ykb.png" group-title="KNOWLEDGE",Love Nature
 https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
+
+
+#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="KNOWLEDGE", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="lovenature.uk" tvg-logo="https://i.imgur.com/HBu0qrX.png" group-title="KNOWLEDGE", LOVE NATURE 4K
+https://dl.dropboxusercontent.com/s/halm3tnyk7xuz1o/lovenature.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="KNOWLEDGE",History HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
