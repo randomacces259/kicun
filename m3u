@@ -37,8 +37,8 @@ https://livecloud.pstatic.net/navertv/lip2_kr/anmss1125/rx0r6y4ptbranplzjiu0d0m3
 https://livecloud.pstatic.net/navertv/lip2_kr/anmss0678/yndzlf3a7sgk0gizrjalxffufekkrb0fhdvm/360/hdntl=exp=1743603080~acl=*%2Fyndzlf3a7sgk0gizrjalxffufekkrb0fhdvm%2F*~data=hdntl~hmac=dbcdd8e05dac9ce7419171eea8b58fffaad694c91825ddcc9111f66b2a0562b6/chunklist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png", SBS golf
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM1ODczNzksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiODIzZTMxOGEtZDg5Zi00NDBkLWI0YjUtMDM1MWEwYWM2NWE2IiwiaWF0IjoxNzQzNTg3MTk5fQ.ueQYgTRAYKf-edDqHJZBsOKVUJLJoI5ljYH1TeDgk6s&solsessionid=bad4bffb4310eef609a3220bed962931
 
 #EXTINF:-1 tvg-id="KTA TV" tvg-logo="" group-title="EVENT",KTA TV
 https://livecloud.akamaized.net/sports/lip2_kr2/anmss1006/mfxi1o6f48ky1ogu1eo2olmmql8y3cfrcada/480.stream/hdntl=exp=1743603798~acl=*%2fmfxi1o6f48ky1ogu1eo2olmmql8y3cfrcada%2f*~data=hdntl~hmac=106dee3ee355e6b170fc2915cf0cc5b12c5891e87180a9db770d8efea95b8ed8/chunklist.m3u8
