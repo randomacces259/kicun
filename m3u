@@ -30,6 +30,61 @@ https://livecloud.pstatic.net/navertv/lip2_kr/cnmss9245/zukhpxcenjktcy7rkr0sjjrq
 
 
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:204873
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-DATERANGE:ID="nmss-daterange",START-DATE="2025-03-26T02:08:31.990Z"
+#EXT-X-PROGRAM-DATE-TIME:2025-04-02T04:52:07.205Z
+
+#EXTINF:3.000000,
+270_179901241_1743569527205_614615_0_204873.ts?bitrate=72944&filetype=.ts
+#EXTINF:3.000000,
+270_1864728013_1743569530205_614618_0_204874.ts?bitrate=74072&filetype=.ts
+#EXTINF:3.000000,
+270_966709379_1743569533205_614621_0_204875.ts?bitrate=73445&filetype=.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
