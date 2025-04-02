@@ -6,12 +6,8 @@ https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/zzd4jdr7tv5iwtaqkwa
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="EVENT", KBSN SPORTS 
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/x30p0ir9lhpbvs1qa0fom85t73rymylmf0vu/480.stream/hdntl=exp=1743534716~acl=*%2fx30p0ir9lhpbvs1qa0fom85t73rymylmf0vu%2f*~data=hdntl~hmac=9b47ccea1576f228b3fa7e152e87530eb1c9ce2c1569fa2a3b28488393d83895/chunklist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="golfzone" tvg-logo="https://iili.io/JmoPytR.png" group-title="EVENT",golfzone
-
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss9009/2knfe5yobllqrigallr1mr3kql320htgkynb/480/hdntl=exp=1743601648~acl=*%2F2knfe5yobllqrigallr1mr3kql320htgkynb%2F*~data=hdntl~hmac=aa67a579a688f8f4034507a2cdca9e9092c965a1e254d886c8707955534c1edb/chunklist.m3u8
 
 
 
@@ -22,11 +18,19 @@ https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4Nzhl
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="EVENT",KBS
 https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmMzEyODcwJiY0OTU5OTUwJiYzMTI4NzA0OTU5OTUwRDAmJmY/480/hdntl=exp=1742677703~acl=*%2Fentry%2F*~data=hdntl~hmac=8f590d7d4f45205fbddd6504e779b73c4b05fd5b8be253f4315052bb139ee389/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="YTN" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",YTN
-https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMzEzMDYxJiY5MjQ1MDQzJiYzMTMwNjE5MjQ1MDQzTDAmJmY/480/hdntl=exp=1742678018~acl=*%2Fentry%2F*~data=hdntl~hmac=0b8ac99a90021021063bb4b522525278db1856d2fbf580fba6ba87dae43a1317/chunklist.m3u8
+#EXTINF:-1 tvg-id="YTN" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",MBC
+https://livecloud.pstatic.net/navertv/lip2_kr/anmss1109/ptgx8m8kjrj2ih59nytgeassglht82r2ynjg/480/hdntl=exp=1743601572~acl=*%2Fptgx8m8kjrj2ih59nytgeassglht82r2ynjg%2F*~data=hdntl~hmac=872917d25132fccc3675632a0d99c05963758663e67177038cc8897feb0a7b8a/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://images.seeklogo.com/logo-png/44/1/kbs-n-logo-png_seeklogo-447544.png" group-title="EVENT",tv korea 
-https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmNDQyMTI4MCYmMzM4OTg3OSYmNDQyMTI4MDMzODk4NzlEMCYmZg/480/hdntl=exp=1742678172~acl=*%2Fentry%2F*~data=hdntl~hmac=35d9e5a06c43835306978bdf589f774b0b9ab47edb41391b8da1e1f75fdfc297/chunklist.m3u8
+https://livecloud.pstatic.net/navertv/lip2_kr/cnmss9245/zukhpxcenjktcy7rkr0sjjrqll31zd0j3wq8/480/hdntl=exp=1743601317~acl=*%2Fzukhpxcenjktcy7rkr0sjjrqll31zd0j3wq8%2F*~data=hdntl~hmac=207fe72bcb1ab7176773f6a54ce278fc6919d372ba04200a017070c958328e0b/chunklist.m3u8
+
+
+
+
+
+
 
 ######################################################################KNOWLEDGE############################################################################################################################################# 
 
