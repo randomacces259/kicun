@@ -43,107 +43,6 @@ https://aps12.playlist.ttvnw.net/v1/playlist/CqIIwE6w8c2cius7-FgcS5j_gY-WIvLFvh-
 
 
 
-=============================================================== DAZN & LALIGA =============================================================================
-
-
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIAhrxQ5n3fVknQ3zK2mt8Tl9-B5UTqUwlg&usqp=CAU" group-title="Dazn MK" ,DAZN Eleven 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIAhrxQ5n3fVknQ3zK2mt8Tl9-B5UTqUwlg&usqp=CAU" group-title="Dazn MK" ,DAZN Eleven 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStIAhrxQ5n3fVknQ3zK2mt8Tl9-B5UTqUwlg&usqp=CAU" group-title="Dazn MK" ,DAZN Eleven 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="Dazn MK" ,DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-060/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="Dazn MK"  , DAZN 1 馃嚞馃嚙
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-045/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="Dazn MK"  , DAZN 1 馃嚛馃嚜 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.ibb.co.com/Z2nfLbq/2k24dazn2.png" group-title="Dazn MK"  , DAZN 2 馃嚛馃嚜 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 1.pt" tvg-logo="https://i.ibb.co.com/j3jpW0X/2k24dazn1.png" group-title="Dazn MK"  , DAZN 1 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2.pt" tvg-logo="https://i.ibb.co.com/Z2nfLbq/2k24dazn2.png" group-title="Dazn MK"  , DAZN 2 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd  
-
-#EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://i.ibb.co.com/1ZVpRKs/2k24dazn3.png" group-title="Dazn MK"  , DAZN 3 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd  
-
-#EXTINF:-1 tvg-id="DAZN 4.pt" tvg-logo="https://i.ibb.co.com/5h9wVPj/2k24dazn4.png" group-title="Dazn MK"  , DAZN 4 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd  
-
-#EXTINF:-1 tvg-id="DAZN 5.pt" tvg-logo="https://i.ibb.co.com/JdPGvML/2k24dazn5.png" group-title="Dazn MK"  , DAZN 5 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd 
-
-#EXTINF:-1 tvg-id="DAZN 6.pt" tvg-logo="https://i.ibb.co.com/Z8p0zgf/2k24dazn6.png" group-title="Dazn MK"  , DAZN 6 馃嚨馃嚬
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd 
-
-#EXTINF:-1 tvg-id="DAZN Pro League 1 NL.be" tvg-logo="https://i.ibb.co.com/VQVKwBX/daznprol1.png" group-title="Dazn MK"  , DAZN PRO LEAGUE 1 馃嚦馃嚤
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-049/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN Pro League 1 FR.be" tvg-logo="https://i.ibb.co.com/VQVKwBX/daznprol1.png" group-title="Dazn MK" , DAZN PRO LEAGUE 1 馃嚝馃嚪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
 
 
 
@@ -714,7 +613,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS",BEIN SPORT 1 
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
@@ -4370,13 +4269,7 @@ https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlke
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://zekonew.iosplayer.ru/zeko/premium123/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
-https://dl.dropboxusercontent.com/scl/fi/2tifg7mgp9u25h58n1jda/astro-grandstand.m3u8?rlkey=p7fx1uz3hod2uj3y6bij49gpt&st=x1k1tqx4
 
 
 
@@ -4385,13 +4278,7 @@ https://dl.dropboxusercontent.com/scl/fi/2tifg7mgp9u25h58n1jda/astro-grandstand.
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-league.m3u8?rlkey=216kkgmqjys5dvie1dd9u6nfx&st=t4rjm5rx
 
 
 
@@ -4402,12 +4289,7 @@ https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-lea
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-league-2.m3u8?rlkey=llelik9nx5wamydul7tuesld6&st=r2669uk9
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS CHANNEL", ASTRO PREMIER LEAGUE 2
-http://tv.cloudcdn.me/live.ts?channelId=93740&uid=316&deviceMac=00:1A:79:01:04:AC
-http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:AC
 
 
 
@@ -4415,13 +4297,7 @@ http://tv.cloudcdn.me/live.ts?channelId=125430&uid=316&deviceMac=00:1A:79:01:04:
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://windnew.iosplayer.ru/wind/premium124/mono.m3u8
 
 
 
@@ -4436,18 +4312,12 @@ https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/fBjk21H.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/ddtlz2yghb3ad25lqd6wb/FR-BEIN-SPORTS-1.m3u8?rlkey=ifognos2t2vrptdj95rjku5qz
 
 
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pfuZc9Q.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/63ghnj9dwspqq3o26uo0j/FR-BEIN-SPORTS-2.m3u8?rlkey=4zwx2xdflhc1fj0onojjss355
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XexiVEu.png" group-title="SPORTS CHANNEL", FR: BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/m6nkfbjvenztkcmx8ln3q/FR-BEIN-SPORTS-3.m3u8?rlkey=9bpcsf4dp875j0vez60xyhldu
 
 
 
@@ -4475,9 +4345,7 @@ https://dl.dropboxusercontent.com/scl/fi/m6nkfbjvenztkcmx8ln3q/FR-BEIN-SPORTS-3.
 
 
 
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/rmswJVo.png", BEIN SPORTS XTRA
 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 
@@ -4485,27 +4353,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW PREMIER SPORTS 1
 
 
-https://dl.dropboxusercontent.com/scl/fi/li2kqj85upd8jnkfgtjtg/now-premier-sports-1.m3u8?rlkey=nsd2rh0xvuu0r8m29m05t9aql&st=5fp009at
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 2
 
 
-https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8?rlkey=prl6veyvkebc6pgomefag3x7d&st=rv0lh5dh
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS CHANNEL", NOW SPORTS 3
 
 
-https://dl.dropboxusercontent.com/scl/fi/8d1qgc9otx954gaqqs513/now-sports-3.m3u8?rlkey=s322xr6d62otajn3e471n2tea&st=6euh9fvi
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 
 
 
@@ -4513,7 +4374,6 @@ https://dl.dropboxusercontent.com/scl/fi/8d1qgc9otx954gaqqs513/now-sports-3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
 
 
 
@@ -4521,874 +4381,12 @@ https://dl.dropboxusercontent.com/scl/fi/8d1qgc9otx954gaqqs513/now-sports-3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
 
 
 
 
 
 
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SuQGdzc.png" group-title="SPORTS CHANNEL", SUPERSPORT PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/k48v3b04xlzl72ebknjdg/supersport-premier-league.m3u8?rlkey=sd52ydwpqnfrmv2q6tiv2tpyr
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OysOiGV.png" group-title="SPORTS CHANNEL", SUPERSPORT LALIGA
-https://dl.dropboxusercontent.com/scl/fi/bla19utnd03in3l5cyble/supersport-laliga.m3u8?rlkey=6gdiysqslb9w90kr0kd7k8g30
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://dl.dropboxusercontent.com/scl/fi/9wsrnnm33ojr2a2etgzlp/skysportsmainevent.m3u8?rlkey=6gut3adzjpkdakpu2hkwkip5e&st=g57vigou
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS MAIN EVENT
-https://dl.dropboxusercontent.com/scl/fi/8et0y4dzvi90ezs6js5fi/skysportsmainevent-2.m3u8?rlkey=g8y8toanp5nyrzj9kx3doldzd
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/w2jeu8kojqfsskksjnr5l/skysportspl.m3u8?rlkey=8gpod59u0o1npvdbk64p6sx5l
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/2me8p2rhz8t1gea8vkky2/skysportspl-2.m3u8?rlkey=dyccwxjkhpylrgbbenfqu9i36
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://dl.dropboxusercontent.com/scl/fi/atbuyjqv3st5h40qz0kw4/sky-sports-football.m3u8?rlkey=zl6sa7uclu7jlzf4e3wwmh6qr
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS FOOTBALL
-https://dl.dropboxusercontent.com/scl/fi/6kotfvwm950nisn8fl0j4/sky-sports-football-2.m3u8?rlkey=enjuwscrj7un3ruclis1wigko
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTS CHANNEL", CANAL+ PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 1
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 2
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="SPORTS CHANNEL", ID: BEIN SPORTS 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/bnl0puibcfv6do96q0o3o/bein_my1.m3u8?rlkey=1e46nhcf27ii5nupxe81zjd8p
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/f0mlfvd3xizf8goi3odh6/bein_my2.m3u8?rlkey=znludjyid0jgd4rcg20pruota
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS CHANNEL", MY: BEIN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/sztcvxxnqr4xd59btv4de/bein_my3.m3u8?rlkey=j0tzio68tf1hor2bzieev5112
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS NEWS
-
-https://dl.dropboxusercontent.com/scl/fi/xhwkpxfd76qxhtk6f8h3o/SKY-SPORTS-NEWS.m3u8?rlkey=z3ry3eld6ij5g4mphkjecv6d9
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTS CHANNEL", UK: SKY SPORTS ARENA
-
-https://dl.dropboxusercontent.com/scl/fi/ntzcvsd6drmibqg98c0rt/sky-sports-arena.m3u8?rlkey=xp4764adgopudn7xqu38ubwp8
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/4pZvA72.png", UK: SKY SPORTS GOLF
-https://dl.dropboxusercontent.com/scl/fi/xmoq8y3yzi6g5epz6qex4/SKY-SPORTS-GOLF.m3u8?rlkey=txxy9bu7kddv02trb5bvd5b1l
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/00zrfW6.png", UK: SKY SPORTS MIX
-https://dl.dropboxusercontent.com/scl/fi/3m1lbuzmy5qnp8bo5hv3l/SKY-SPORTS-MIX.m3u8?rlkey=w2ya0b7qc0vlwcef7nu7p9niw
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pS2VzGN.png", UK: SKY SPORTS TENNIS
-https://dl.dropboxusercontent.com/scl/fi/4ile18vqgc7nh2c3ciq0s/SKY-SPORTS-TENNIS.m3u8?rlkey=5d9snx41adcmx8k0ai8ievnhi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://dl.dropboxusercontent.com/scl/fi/0iyq9t4rnogcp0y9tnwbo/skysportsf1.m3u8?rlkey=alojxqd330uxer8gl5yv0uoan&st=4y7ohrm5
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
-https://dl.dropboxusercontent.com/scl/fi/wc99k06t13j6jc2ynm3k6/skysportsf1_2.m3u8?rlkey=acr2owkduh4kljnpyrspzoyq3&st=tzrje1x3
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://dl.dropboxusercontent.com/scl/fi/hmz8v4t4cwmo5aqkfud2t/skysportsf1_de.m3u8?rlkey=v91hrpa3itm8fjddvs22o0bzh&st=e0o97i8w
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
-https://dl.dropboxusercontent.com/scl/fi/b9tez8phv06g04xme6yq7/skysportsf1_de-2.m3u8?rlkey=yxlo7c9rs4v48muc6v5p5hhs4
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://dl.dropboxusercontent.com/scl/fi/zf09brw09usr2j1ahstp1/daznf1.m3u8?rlkey=6r31gbl37poka96z09ekkrt5q&st=ny121qb1
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://dl.dropboxusercontent.com/scl/fi/m7hvcyxuq3210cw3exkdb/daznf1-2.m3u8?rlkey=epc6inbykey54ytdbj27x5cui
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="SPORTS CHANNEL", MOTORVISION+
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/c0yv11f200zry3qd798so/tnt-sports-1.m3u8?rlkey=ify7vbhrszfpqn3f4bfkhocvp
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/S88QAk8.png", TNT SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/ltr62gpguwcc8b3e9zzku/tnt-sports-2.m3u8?rlkey=jz8b7eilmbws8kygrfell6sef
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/eaPYjbw.png", TNT SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/otl23l96k852376chidfx/tnt-sports-3.m3u8?rlkey=pkadf5myis7kuoxgcov29j6g3
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/GdwgxdO.png", TNT SPORTS 4
-https://dl.dropboxusercontent.com/scl/fi/ksoi8cqmd74e8592io7ui/tnt-sports-4.m3u8?rlkey=am7neijqskg224qq457olwhpj
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 1
-https://dl.dropboxusercontent.com/scl/fi/872djk5i1b1va1ekkicqu/arena-premium-1.m3u8?rlkey=1mxpfd76v8he2ggcet6szzloq
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 2
-https://dl.dropboxusercontent.com/scl/fi/iwrcmnng513aw9djjebft/arena-premium-2.m3u8?rlkey=jdf53r2ajcvv4ybl3r2z2ro6z
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTS CHANNEL", ARENA PREMIUM 3
-https://dl.dropboxusercontent.com/scl/fi/luds6ftzrmj1faljwwpnt/arena-premium-3.m3u8?rlkey=x82umtk3hqiftmjuafrzelpqz
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", ARENA SPORT 1
-https://dl.dropboxusercontent.com/scl/fi/qdsjkfm98usj9e2qcsi4d/arena-sport-1.m3u8?rlkey=93xgevpjvolajdyqpasxf995o
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", ARENA SPORT 2
-https://dl.dropboxusercontent.com/scl/fi/xh0yd1zmo7hlhphjtnjnx/arena-sport-2.m3u8?rlkey=gn26ghw71j1kir5h60jambcy2
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", ARENA SPORT 3
-https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u8?rlkey=ikgznd79bn8tba7mnr95gt3nn
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
-https://dl.dropboxusercontent.com/scl/fi/rwzbv0r6cgi9g6yjzcv7h/movistar-laliga.m3u8?rlkey=v89h1z2qaaq1afdhea48fmv8u
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
-https://dl.dropboxusercontent.com/scl/fi/7eysijipg0e0w2d89q5ur/MOVISTAR-LIGA-DE-CAMPEONES.m3u8?rlkey=o4mcks45r7rsill3upagz6giz
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 1
-https://dl.dropboxusercontent.com/scl/fi/z6k992ge7vzsvlq85lqew/SSC-1.m3u8?rlkey=8mzrdpldph32z4y2r4kgj4ahe
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 2
-https://dl.dropboxusercontent.com/scl/fi/d6qzv1q9wbbmz42kv2dsu/SSC-2.m3u8?rlkey=eosm5dlpk3apadsw2a705538z
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 3
-https://dl.dropboxusercontent.com/scl/fi/o9ov3zxnpv2kbmazt6k91/SSC-3.m3u8?rlkey=fzs90azwbrje8pw2060ax6s03
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 4
-https://dl.dropboxusercontent.com/scl/fi/dv1fgzal95btaiq77hlv8/SSC-4.m3u8?rlkey=l99njjxze0ao7rcceg0gv6lb8
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC 5
-https://dl.dropboxusercontent.com/scl/fi/16ddn8rvzjdc9x99o30vv/SSC-5.m3u8?rlkey=hztxdb4g9nkz4elq1uvsf8pdb
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTS CHANNEL", SSC NEWS
-https://dl.dropboxusercontent.com/scl/fi/8wjuandnq48b1yhqtgc3a/SSC-NEWS.m3u8?rlkey=ednu381u87adr1040qmjn1u41
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
-https://dl.dropboxusercontent.com/scl/fi/4d2c1ce1640grvyqrchk7/ELEVEN-SPORTS-1.m3u8?rlkey=dslah5mg5yhitjhyqqi2irppi
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
-https://dl.dropboxusercontent.com/scl/fi/25s2iqnr47z4nx52nbobo/ELEVEN-SPORTS-2.m3u8?rlkey=5nfvg5eciiaswl9twmz1yd3pq
-
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
-https://dl.dropboxusercontent.com/scl/fi/zz575lgcixruzzknrgqqv/ELEVEN-SPORTS-3.m3u8?rlkey=nns9esw5mt4oo7s7h9s9wvlhd
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://dl.dropboxusercontent.com/scl/fi/684m55tgc57qg6opwzo6a/DAZN-1-ES.m3u8?rlkey=uymo3b4skmvrlhg5eh5oync5c
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://dl.dropboxusercontent.com/scl/fi/4fhe4f83mgfu1fzy6dkko/DAZN-2-ES.m3u8?rlkey=k6jf0ekfwl6wrx8era5399v8w
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
-https://dl.dropboxusercontent.com/scl/fi/3r8z54axfeltka1qacgsm/DIGI-SPORT-1.m3u8?rlkey=ypcx2kagkwnu8324i0ad7ohpt
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
-https://dl.dropboxusercontent.com/scl/fi/12nzokidzi32ivnl4vz06/DIGI-SPORT-2.m3u8?rlkey=8m9qph9br9xeoyrrzh1j200uf
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
-https://dl.dropboxusercontent.com/scl/fi/yezr03ou6ae751oxfk9oc/DIGI-SPORT-3.m3u8?rlkey=evw52arcyvwspw4chgmqm9q5z
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
-https://dl.dropboxusercontent.com/scl/fi/uz44vhdvijb7itd7l0zq6/DIGI-SPORT-4.m3u8?rlkey=woochb942b34itrttdwfi5mm5
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
-https://dl.dropboxusercontent.com/scl/fi/9ha3x3wfb61m69pk6dqd8/SPORT-TV-1.m3u8?rlkey=5fpwk2ud0qxndg4qfzaymxcnd
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
-https://dl.dropboxusercontent.com/scl/fi/3y88ptp80xe43pdujx0b3/SPORT-TV-2.m3u8?rlkey=55kvu86rwrj4r52bhfpxyq0mz
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
-https://dl.dropboxusercontent.com/scl/fi/byrh9mdg7q0olg0wxjzt7/SPORT-TV-3.m3u8?rlkey=sos7pyxjn2fyd15ytwyhd7y1e
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
-https://dl.dropboxusercontent.com/scl/fi/qmi5s806h56s5qw4aimli/SPORT-TV-4.m3u8?rlkey=p0fl30q86h8gcn8p70io92fbf
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
-https://dl.dropboxusercontent.com/scl/fi/addj626wm28pijopfzzj8/SPORT-TV-5.m3u8?rlkey=tjr6l6my1fdzb35i7x16ww2r2
-
-
-
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
-https://dl.dropboxusercontent.com/scl/fi/j79cuicps0h48ahb3v01o/SPORT-TV-6.m3u8?rlkey=a6gm0u1m0mvx3ix3sy1txdi4z
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="SPORTS CHANNEL", MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS CHANNEL", CHAMPIONS TV 1
-#http://203.77.246.14:8001/udp/239.1.2.240:5000
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS CHANNEL", CHAMPIONS TV 2
-#http://203.77.246.14:8001/udp/239.1.2.242:5000
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="SPORTS CHANNEL", CCTV 5+
-
-https://dl.dropboxusercontent.com/scl/fi/lz84u65u4txuk2mkjglla/cctv-5.m3u8?rlkey=tn3cbvzghblbe9vhkx8pva3su
-http://live.wqwqwq.sbs/gaoma/cctv5p.m3u8
-https://haoyunlai.serv00.net/Smartv-1.php?id=cctv5plus
-http://tvh.990066.xyz/stream/channelid/1779187567?profile=pass
-
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="SPORTS CHANNEL", CCTV 16
-
-https://dl.dropboxusercontent.com/scl/fi/hrxjy17djsdbk0jf3phz4/cctv-16.m3u8?rlkey=2ys0q343ydu1k9i2wg7h6cosl
-http://live.wqwqwq.sbs/gaoma/cctv16.m3u8
-http://live.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
-http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS CHANNEL", NBA TV
-https://dl.dropboxusercontent.com/scl/fi/k1bfsx5lupl2pgkeprth8/nbatv.m3u8?rlkey=1bg154hfdy7eoi353fp8uhz2q
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://dl.dropboxusercontent.com/scl/fi/q65xh47mh0hirtzqhkv0a/wwenetwork.m3u8?rlkey=o8n4xd9tl3t6pwgumiery618g&st=skhsjhnl
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS CHANNEL", WWE NETWORK HD
-https://dl.dropboxusercontent.com/scl/fi/nc2vlkjkncer5wpi5lavf/wwenetwork-2.m3u8?rlkey=kdv5mpb6yh8pdy12y0nubkzm1
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS CHANNEL", IMPACT WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-
-
-
-#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS CHANNEL", UFC FIGHT PASS
-https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3u8?rlkey=bq2mi43bn3i74bd3ooy4b7yud
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
-#http://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS CHANNEL", TVRI SPORT
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS CHANNEL", TVRI SPORT
-
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
 
 
@@ -5486,14 +4484,20 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://dl.dropboxusercontent.com/scl/fi/bbl59e1cmyemefij4dkwn/dubai-sports-1.m3u8?rlkey=8zg0bhyrnna1qujfn74pjk5ze
 
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTS CHANNEL", DUBAI SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
@@ -5504,11 +4508,15 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://dl.dropboxusercontent.com/scl/fi/wzyx287ntmwjb020gve62/eurosport-1.m3u8?rlkey=tmlst9xx6cekiaa18uzkghw85&st=41jnnnuv
 
 
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://dl.dropboxusercontent.com/scl/fi/ljig6p8ee3kphzphko31b/eurosport-2.m3u8?rlkey=yxv65ktfw88gguihls8dgl3pc&st=gm3qh11z
 
 
