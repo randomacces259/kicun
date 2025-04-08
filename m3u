@@ -537,7 +537,7 @@ http://extraott.com:900/live/3162523972/3791698850/16872.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 http://extraott.com:900/live/3162523972/3791698850/16871.m3u8
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL| ESPN SPORTS 4 HD" tvg-logo="https://lo1.in/nl/espn4.png" group-title="SPORTS"ESPN SPORTS 4 HD
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL| ESPN SPORTS 4 HD" tvg-logo="https://lo1.in/nl/espn4.png" group-title="SPORTS",ESPN SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 http://extraott.com:900/live/3162523972/3791698850/16870.m3u8
@@ -551,7 +551,7 @@ http://extraott.com:900/live/3162523972/3791698850/16849.m3u8
 http://extraott.com:900/live/3162523972/3791698850/16848.m3u8
 #EXTINF:-1 tvg-id="extremesportschannel.nl" tvg-name="NL| EXTREME SPORTS CHANNEL HD" tvg-logo="https://lo1.in/nl/extspchhh.png" group-title="SPORTS",EXTREME SPORTS CHANNEL HD
 http://extraott.com:900/live/3162523972/3791698850/16847.m3u8
-#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="NL| ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="SPORTS"ZIGGO SPORT HD
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="NL| ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="SPORTS",ZIGGO SPORT HD
 http://extraott.com:900/live/3162523972/3791698850/16824.m3u8
 #EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="NL| ZIGGO SPORT DOCU HD" tvg-logo="https://lo1.in/nl/zigspdoo01.png" group-title="SPORTS",ZIGGO SPORT DOCU HD
 http://extraott.com:900/live/3162523972/3791698850/16823.m3u8
@@ -568,21 +568,9 @@ http://extraott.com:900/live/3162523972/3791698850/16819.m3u8
 #EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="NL| ZIGGO SPORT VOETBAL HD" tvg-logo="https://lo1.in/nl/zigspvb0.png" group-title="SPORTS",ZIGGO SPORT VOETBAL HD
 http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1.ua" tvg-logo="https://iili.io/JhkLkzu.png" group-title="SPORTS",Abu Dhabi Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://adtv.ae
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/hls/index.m3u8|referer=https://www.visionplus.id/
@@ -593,16 +581,16 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2.ua" tvg-logo="https://iili.io/JhkLkzu.png" group-title="SPORTS",Abu Dhabi Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://adtv.ae
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/hls/index.m3u8|referer=https://www.visionplus.id/
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd|referer=https://www.visionplus.id/
