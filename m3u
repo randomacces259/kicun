@@ -2502,15 +2502,6 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #http://killer.play-gachor.online:80/play/A35z4aW0o9gAZvIfatIgl4gK3RI4VNEBLLYGzLga5JU
 
-
-
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -2560,31 +2551,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="SPORTS",Sportstars 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2620,15 +2586,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNRPe3R5Sik1cWgfRNSp7CqNMGz5rD4ZzUyd61eA5j8YzNkkNE53RLFCF8rfLkK-CzOdeDtml5-8J22YmL8rQGnNGbc7uzRRkm1q-yekfYDwNdRVsGwzkgZ5kLOZs9yz97AsPk-dacPy3-hKGIq5ip3LM7m4nlEzSS7vbkK-XwVHEsnlPLCzYUKBzDzSO/s700/SBS%20SPORTS.png" group-title="SPORTS", SBS SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://raihanboy.biz.id/chanel/mega2.m3u8
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BYw9xVW.png" group-title="SPORTS",SPOTV V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3116,6 +3076,14 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="SPORTS" tvg-id="jsports4.jp" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",J Sports 4 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKNp2HciYdqxNDEfUjV6MAodnzUkKSTIzWb-MM0DKikKNSAoX4_O_wfIzhQALz-xfCwX8QrtEuwWZdf-8nHs3GeVdm1mdDYNQm5HFRQXqvKKDZ43cT_KWPj53Hf-GgYDQt_ZAwq8TD34eHLXm_7kznNIKx96F3PJusqc8vG8tZ4Mp3dSDD9FNy4ZlwTNzP/s700/J%20SPORTS%201.png" group-title="SPORTS", J SPORTS 1 BC
+http://iptv12k.com:35461/live/654321/123456/3134.ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3MwQuTfqimNBBzWTefvqEnjfUYHxyvAUSBmpfmK4dqoS3IT1wiiXZIViauotuds5RrMUFQZr0xhOzi08R4iHgm3k-DRmzXkgv_b_3ZjK3lTHsK3ug_2dd9oRvF4_L_L3vacmBKeDVhaiMICnHYMPczP-Cn3njN2lOW0DpUN9ILpuUCN4i7a23rnSvElw2/s700/J%20SPORTS%202.png" group-title="SPORTS", J SPORTS 2 BC
+http://iptv12k.com:35461/live/654321/123456/3135.ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMq9SIzzdaRnqvyFc8qHuP2y1R-59qNp45SfB_-1Ijz2_gE4q60WgJsNnzoAvEXHvxmsmC14jm4d7K0g9TycckHHUdiS7d1Un07MtonlXFRB_w08xS4N81BvW2I3ALAz1t-eEIviN3rJff1QAhyphenhyphenTvJP3ZoMAUjPf61ht4yGqeEQqDxP97QRv-OPX4D8LZ/s700/J%20SPORTS%203.png" group-title="SPORTS", J SPORTS 3 BC
+http://iptv12k.com:35461/live/654321/123456/3136.ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7boX-jiDEWFeQkHEEZuQ2FKEe-ae8T3nyyYZUaj7fp-j7kTNQF-HEgauCeaEWK7DxHQ2nNlQBMaD02p_U9f2tsv6vwuQk5wD40x86pF7ghuIBukbqPxbBoonYwWaIp3JPnjzoCPO9uvYxuGIUrEth3Wf94mTNLGwHx0e3MOVF_L7r9af51QGgAVvusBQM/s700/J%20SPORTS%204.png" group-title="SPORTS", J SPORTS 4 BC
+http://iptv12k.com:35461/live/654321/123456/3137.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt1.png" group-title="SPORTS",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
