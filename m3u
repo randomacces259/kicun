@@ -1,16 +1,13 @@
 ===================================================================================VOLLY=================================================================================================
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png", SBS Sport
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQ3ODI2NTcsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMDZmZmJjZGYtMzFhYS00OWIxLWExNzEtMjc0NDQzOTk3Y2ZiIiwiaWF0IjoxNzQ0NzgyNDc3fQ.PZIGPnp4AMZBbvIqiB01QLdq44Bm9xG9U2GVP-aoGcE&solsessionid=14d4939a2b8169d92e8d0c573103c1dd
-
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8
 
 
 
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="EVENT", KBSN SPORTS 
 
 #EXTINF:-1 tvg-id="golfzone" tvg-logo="https://iili.io/JmoPytR.png" group-title="EVENT",golfzone
-
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd?sign=3cf08f9963479b9792395cc93d7f196c&time=1744009929
 
 #EXTINF:-1 tvg-id="KBS2" tvg-logo="https://iili.io/JmoiKSn.png" group-title="EVENT",KBS
 
