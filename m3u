@@ -305,6 +305,8 @@ http://extraott.com:900/live/3162523972/3791698850/473552.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvnmovies.png" group-title="Korean Channels",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
 
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TvN movies HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -681,7 +683,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNRPe3R5Sik1cWgfRNSp7CqNMGz5rD4ZzUyd61eA5j8YzNkkNE53RLFCF8rfLkK-CzOdeDtml5-8J22YmL8rQGnNGbc7uzRRkm1q-yekfYDwNdRVsGwzkgZ5kLOZs9yz97AsPk-dacPy3-hKGIq5ip3LM7m4nlEzSS7vbkK-XwVHEsnlPLCzYUKBzDzSO/s700/SBS%20SPORTS.png" group-title="SPORTS", SBS SPORTS 
+#EXTINF:-1 tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-sports183x174@3x.jpg" group-title="SPORTS", WEDO SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedosportsasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff90aad7006c4820e8e62288fafda7c387c0c5f820f5be3f443a5fde35443896fa0e24a19934d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905f3ddc7312e4d55c4691875f2468dc8dbc2f0be294a661f8dc0be0e34c/155/848x480_1686360/index.m3u8
 
