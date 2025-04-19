@@ -9,7 +9,8 @@
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://iili.io/JmoiJMN.png" group-title="EVENT",MBC
 
-#EXTINF:-1 tvg-id="YTN" tvg-logo="https://images.seeklogo.com/logo-png/44/1/kbs-n-logo-png_seeklogo-447544.png" group-title="EVENT",tv korea 
+#EXTINF:-1 tvg-id="EVENT" tvg-logo="https://images.seeklogo.com/logo-png/44/1/kbs-n-logo-png_seeklogo-447544.png" group-title="EVENT",EVENT
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="EVENT",YTN
 
