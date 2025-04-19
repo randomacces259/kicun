@@ -16,138 +16,6 @@
 #EXTINF:-1 tvg-id="tv chosun" tvg-logo="https://phinf.pstatic.net/tvcast/20190314_85/f1sw6_1552538330414QwIfJ_JPEG/1552538330396.jpg" group-title="EVENT",tv chosun
 
 
-
-//////////////////////////////////////////////////////////////KOREA////////////////////////////////////////////////////////////
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
-#http://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
-#http://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
-#http://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
-#http://203.77.246.14:8001/udp/239.1.2.236:5000
-#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
-#EXTVLCOPT:http-user-agent=xplayer168
-https://dl.dropboxusercontent.com/scl/fi/6w9evqo7v5ipvznjyxq1m/kplus.m3u8?rlkey=7hgboj89fpouneu2w9xud2g4o&st=a8e05a7t
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
-http://mytv.dothome.co.kr/ch/catv/7.php
-https://dl.dropboxusercontent.com/scl/fi/5j5i01wqyaurfn92bvfx6/kbsworld.m3u8?rlkey=wtrmdjduc4sp2zzpytmj9math
-#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOREA", KBS KOREA
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/H2L3ua6.png", KBS1
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/uHOFlEx.png", KBS2
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/x1cQdwp.png", KBS NEWS D
-http://mytv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/lWb0YQo.png", KBS DRAMA
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/kFiBmr5.png", KBS JOY
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9yge6DE.png", KBS STORY
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6DR8hIL.png", KBS LIFE
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/r6CHRC6.png", KBS KIDS
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/7HTQYht.png", ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aYDMvJV.png" group-title="KOREA", EBS KIDS
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mbQlIZN.png" group-title="KOREA", EBS 1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KOREA", EBS 2
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-id="arirangtv.kr" tvg-name="KR: ARIRANG HD" tvg-logo="https://lo1.in/kor/ari.png" group-title="KOREA",KR: ARIRANG HD
-http://extraott.com:900/live/3162523972/3791698850/191051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: BBS TV HD" tvg-logo="https://lo1.in/kor/bbs.png" group-title="KOREA",KR: BBS TV HD
-http://extraott.com:900/live/3162523972/3791698850/380179.m3u8
-#EXTINF:-1 tvg-id="ctschristiantv.kr" tvg-name="KR: CTS HD" tvg-logo="https://lo1.in/kor/cts.png" group-title="KOREA",KR: CTS HD
-http://extraott.com:900/live/3162523972/3791698850/380183.m3u8
-#EXTINF:-1 tvg-id="ebs.kr" tvg-name="KR: EBS E HD" tvg-logo="https://lo1.in/kor/ebs40.png" group-title="KOREA",KR: EBS E HD
-http://extraott.com:900/live/3162523972/3791698850/380184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: EBS1  HD" tvg-logo="https://lo1.in/kor/ebs1.png" group-title="KOREA",KR: EBS1  HD
-http://extraott.com:900/live/3162523972/3791698850/380190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: EBS2  HD" tvg-logo="https://lo1.in/kor/ebs3.png" group-title="KOREA",KR: EBS2  HD
-http://extraott.com:900/live/3162523972/3791698850/380191.m3u8
-#EXTINF:-1 tvg-id="ebsplus1.kr" tvg-name="KR: EBS+1 HD" tvg-logo="https://lo1.in/kor/ebs.png" group-title="KOREA",KR: EBS+1 HD
-http://extraott.com:900/live/3162523972/3791698850/380187.m3u8
-#EXTINF:-1 tvg-id="ebsplus2.kr" tvg-name="KR: EBS+2  HD" tvg-logo="https://lo1.in/kor/ebs2.png" group-title="KOREA",KR: EBS+2  HD
-http://extraott.com:900/live/3162523972/3791698850/380189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: GCN HD" tvg-logo="https://lo1.in/kor/gc.png" group-title="KOREA",KR: GCN HD
-http://extraott.com:900/live/3162523972/3791698850/380193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: GUGBANG TV HD" tvg-logo="https://lo1.in/kor/gu.png" group-title="KOREA",KR: GUGBANG TV HD
-http://extraott.com:900/live/3162523972/3791698850/191062.m3u8
-#EXTINF:-1 tvg-id="ktv.kr" tvg-name="KR: KTV" tvg-logo="https://lo1.in/kor/kt1.png" group-title="KOREA",KR: KTV
-http://extraott.com:900/live/3162523972/3791698850/380177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: NBS KOREA AGRICULTURAL BROADCASTING HD" tvg-logo="https://lo1.in/kor/nb.png" group-title="KOREA",KR: NBS KOREA AGRICULTURAL BROADCASTING HD
-http://extraott.com:900/live/3162523972/3791698850/191070.m3u8
-#EXTINF:-1 tvg-id="ytnscience.kr" tvg-name="KR: YTN SCIENCE HD" tvg-logo="https://lo1.in/kor/yts.png" group-title="KOREA",KR: YTN SCIENCE HD
-http://extraott.com:900/live/3162523972/3791698850/191078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: EBS KIDS  HD" tvg-logo="https://lo1.in/kor/ebsk.png" group-title="KOREA",KR: EBS KIDS  HD
-http://extraott.com:900/live/3162523972/3791698850/380188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: K+ HD" tvg-logo="https://lo1.in/kor/k1.png" group-title="KOREA",KR: K+ HD
-http://extraott.com:900/live/3162523972/3791698850/191063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: SBS INTERNATIONAL HD" tvg-logo="https://lo1.in/kor/ss.png" group-title="KOREA",KR: SBS INTERNATIONAL HD
-http://extraott.com:900/live/3162523972/3791698850/191072.m3u8
-#EXTINF:-1 tvg-id="sbsplus.kr" tvg-name="KR: SBS PLUS HD" tvg-logo="https://lo1.in/kor/sbp.png" group-title="KOREA",KR: SBS PLUS HD
-http://extraott.com:900/live/3162523972/3791698850/191073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: TAN" tvg-logo="https://lo1.in/kor/flg.png" group-title="KOREA",KR: TAN
-http://extraott.com:900/live/3162523972/3791698850/473548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: EBS" tvg-logo="https://lo1.in/kor/flg.png" group-title="KOREA",KR: EBS
-http://extraott.com:900/live/3162523972/3791698850/473550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: MBN" tvg-logo="https://lo1.in/kor/flg.png" group-title="KOREA",KR: MBN
-http://extraott.com:900/live/3162523972/3791698850/473551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KR: MBC" tvg-logo="https://lo1.in/kor/flg.png" group-title="KOREA",KR: MBC
-http://extraott.com:900/live/3162523972/3791698850/473552.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ######################################################################KNOWLEDGE############################################################################################################################################# 
 
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="KNOWLEDGE",Asian Food Network
@@ -481,9 +349,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg", beIN Sports 3 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-
+https://cempedak-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #EXTINF:1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="SPORTS",Sportstars 1 HD RCTI+🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
@@ -627,15 +493,15 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTM3U
+
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
-#EXTM3U
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SPORTS",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
