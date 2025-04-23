@@ -550,13 +550,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191881.m3u8
 
 
 
-#EXTM3U #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191881.m3u8
-
-
-
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",BEIN SPORT 2 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
@@ -713,7 +706,10 @@ https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://opplex.tv:8080/live/Raza335/3355141450/352087.m3u8
+https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153953.m3u8
+https://wanicelife.com:8880/live/DAALM2881/xZXTEkzgUu/1722.m3u8
+https://wanicelife.com:8880/live/29us031901/adsf3rdsdc/1722.m3u8
 
 
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS", SPORTSTARS 4 HD
@@ -722,8 +718,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45019.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45018.m3u8
+https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45019.m3u8
+https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45018.m3u8
 
 
 
