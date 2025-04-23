@@ -36,7 +36,7 @@ https://www.youtube.com/live/dUR_i_b5KpA?si=ael8cJztuvI542jH
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="EVENT",YTN
 
-#EXTINF:-1 tvg-id="tv chosun" tvg-logo="https://phinf.pstatic.net/tvcast/20190314_85/f1sw6_1552538330414QwIfJ_JPEG/1552538330396.jpg" group-title="EVENT",tv chosun
+#EXTINF:-1 tvg-id="github" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHbPBQRRow9aMnPOswq_bIJxV4MKD4gn_Ig&s" group-title="EVENT",github
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401600421.m3u8
