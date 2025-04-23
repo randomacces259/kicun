@@ -578,6 +578,11 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
+
+
+
+
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SPORTS",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
