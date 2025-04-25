@@ -22,7 +22,7 @@ https://www.youtube.com/live/dUR_i_b5KpA?si=ael8cJztuvI542jH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
+https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 
 EXTM3U
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
