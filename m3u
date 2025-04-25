@@ -18,7 +18,13 @@ https://www.youtube.com/live/dUR_i_b5KpA?si=ael8cJztuvI542jH
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="EVENT",YTN
 
 #EXTINF:-1 tvg-id="EXTRA" tvg-logo="https://instagram.fsub8-2.fna.fbcdn.net/v/t51.29350-15/295203996_111898661597095_6920509459269505381_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fsub8-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QGJvEKFR7ICG50Z1DT_4uAJCuOmZyVZRx0-LAdW6Y6HKqdu-lUTWsfb7PuuF8btLk4&_nc_ohc=_I6uNr6lOfUQ7kNvwGARyzH&_nc_gid=z9mRRYLE8m8oVfmV1ygzAw&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjg4ODA5NDg5NzkxMzMyMDUzNA%3D%3D.3-ccb7-5&oh=00_AfE7-Fz8mCF2nB1bam8q_MOHWPslJbsd9SUJmOawNG79oA&oe=6810D2B3&_nc_sid=22de04" group-title="EVENT",EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
+
+EXTM3U
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
 http://nonton.site:8888/live/XtreamFlixID/w9RLHbWJY4/18.m3u8
