@@ -1,24 +1,5 @@
 ===================================================================================VOLLY=================================================================================================
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png", SBS Sport
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:8
-#EXT-X-MEDIA-SEQUENCE:642492
-#EXTINF:4.004,
-https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
-
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:8
-#EXT-X-MEDIA-SEQUENCE:642492
-#EXTINF:4.004,
-media-u883xqv2e_642492.ts?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
-#EXTINF:4.004,
-media-u883xqv2e_642493.ts?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
-#EXTINF:4.004,
-media-u883xqv2e_642494.ts?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
-#EXTINF:4.004,
-media-u883xqv2e_642495.ts?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDU0MTk4NjksInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOjE4MCwidW5vIjoiMjllOTcxNmQtMTUzYi00NDNlLTkxZWMtYjRmM2FhODYwMjU2IiwiaWF0IjoxNzQ1NDE5Njg5fQ.-_NI-O1fJ3AmuTi3VNzdrHMbxzWHuo4SJKHwSrN8pAc&solsessionid=cd8f5206e6852eaf83937e7de33a3a4f
 
 
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="EVENT", KBSN SPORTS 
@@ -36,7 +17,7 @@ https://www.youtube.com/live/dUR_i_b5KpA?si=ael8cJztuvI542jH
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="EVENT",YTN
 
-#EXTINF:-1 tvg-id="EXTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCCj60oMSxOduazzGPLY1BdD4MOzCpHSc8w&s" group-title="EVENT",EXTRA
+#EXTINF:-1 tvg-id="EXTRA" tvg-logo="https://instagram.fsub8-2.fna.fbcdn.net/v/t51.29350-15/295203996_111898661597095_6920509459269505381_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fsub8-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QGJvEKFR7ICG50Z1DT_4uAJCuOmZyVZRx0-LAdW6Y6HKqdu-lUTWsfb7PuuF8btLk4&_nc_ohc=_I6uNr6lOfUQ7kNvwGARyzH&_nc_gid=z9mRRYLE8m8oVfmV1ygzAw&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjg4ODA5NDg5NzkxMzMyMDUzNA%3D%3D.3-ccb7-5&oh=00_AfE7-Fz8mCF2nB1bam8q_MOHWPslJbsd9SUJmOawNG79oA&oe=6810D2B3&_nc_sid=22de04" group-title="EVENT",EXTRA
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
 http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
