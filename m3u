@@ -21,11 +21,25 @@
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
 
-EXTM3U
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
-http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
-http://nonton.site:8888/live/XtreamFlixID/w9RLHbWJY4/18.m3u8
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
+EXTINF:-1 tvg-id="BEIN SPORTS EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6FCtTbvtydCV9o3YXOQnxL_HTc-CuQEV10ZdD4psQzPc04LXCRImWYjVXOa5uxoBGhU&usqp=CAU" group-tittle="TEST" BEIN SPORTS EN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",BEIN SPORT 2 ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
+
+
+
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/82.m3u8
+#http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
+#http://nonton.site:8888/live/XtreamFlixID/w9RLHbWJY4/18.m3u8
+#http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
+
+
+
+
+
 
 
 
