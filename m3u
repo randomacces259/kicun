@@ -33,7 +33,7 @@ https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJmQwNDQ4Nzh
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/81.m3u8
+http://edge.tellin.swiftserve.com/live/livetv-mbr/amlst:m-beib1/playlist.m3u8
 
 EXTINF:-1 tvg-id="BEIN SPORTS EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6FCtTbvtydCV9o3YXOQnxL_HTc-CuQEV10ZdD4psQzPc04LXCRImWYjVXOa5uxoBGhU&usqp=CAU" group-tittle="TEST" BEIN SPORTS EN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,6 +50,53 @@ https://aps11.playlist.ttvnw.net/v1/playlist/CqMH53r_PUuyJES9Om-3wPwpXddvvfaMWlq
 #http://nonton.site:8888/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
 #http://nonton.site:8888/live/XtreamFlixID/w9RLHbWJY4/18.m3u8
 #http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/190004.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
