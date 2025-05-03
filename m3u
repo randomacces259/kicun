@@ -3,14 +3,11 @@
 
 
 #EXTINF:-1 tvg-id="EVENT" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270277_252254.jpg" group-title="EVENT",EVENT
-https://fhlsport121.fhs36f7.xyz/token-LUN%2Bn7GQe%2FWGu20rlfY6m2iBlMPa1HzjZCH7lPAbQzL777GZHUFdDowupB1KXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/3x_600777.m3u8
-
-https://fhlsport121.fhs36f7.xyz/token-LUN%2Bn7GQe%2FWGu20rlfY6m2iBlMPa1HzjZCH7lPAbQzL777GZHUFdDowupB1KXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/3x_600777.m3u8
+http://fhlsport121.fhs36f7.xyz/token-LUN%2Bn7GQe%2FWGu20rlfY6m2iBlMPa1HzjZCH7lPAbQzL777GZHUFdDowupB1KXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/3x_600777.m3u8
+http://fhlsport121.fhs36f7.xyz/token-LUN%2Bn7GQe%2FWGu20rlfY6m2iBlMPa1HzjZCH7lPAbQzL777GZHUFdDowupB1KXklJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/3x_600777.m3u8
 
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KBS",MBC
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-START:TIME-OFFSET=4 #EXT-X-TARGETDURATION:5 #EXT-X-MEDIA-SEQUENCE:255 #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288646520.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288650235.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288654515.ts #EXTINF:4.64, de-rxtli.3xstm.one_3x_600777-1746288655295.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288660975.ts #EXTINF:4.76, de-rxtli.3xstm.one_3x_600777-1746288665696.ts #EXTINF:4.28, de-rxtli.3xstm.one_3x_600777-1746288672014.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288676115.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288680589.ts #EXTINF:4.64, de-rxtli.3xstm.one_3x_600777-1746288683889.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288688208.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288692087.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288696068.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288699867.ts #EXTINF:4, de-rxtli.3xstm.one_3x_600777-1746288704128.ts
-
 
 
 
@@ -20,8 +17,6 @@ https://fhlsport121.fhs36f7.xyz/token-LUN%2Bn7GQe%2FWGu20rlfY6m2iBlMPa1HzjZCH7lP
 
 #EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="KBS",YTN
 
-https://fhlsport121.fhs36f7.xyz/token-JE4pnbSUIfSG72R5y%2FY6nD2GlMDb1HjjaSKpxaROEWT7s7GXHUFdDowupB1NXkpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/de-rxtli.3xstm.one_3x_600777-1746288468892.ts
-https://streamas01.pbs5073sef.xyz/token-JE4pnbSUIfSG72R5y%2FY6nD2GlMDb1HjjaSKpxaROEWT7s7GXHUFdDowupB1NXkpJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/5o118qrsnUE0pQbiY2EyYKW4qTkcYwA4p3EgYz9hMD%3D%3D/super/de-rxtli.3xstm.one_3x_600777-1746288468892.ts
 
 
 
@@ -932,10 +927,6 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
-
-##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vjhX0S9/kplus.jpg" group-title="Korean Channels",K-Plus 🇮🇩
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://kusnadipepenk.github.io/campeign/kplus.m3u8
 
 ################################################################################SPORT##########################################################################################
 #EXTM3U
