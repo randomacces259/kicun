@@ -1,128 +1,3 @@
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/30pj83g.png", 19:00 WIB Jakarta Lavani VS Jakarta Bhayangkara
-#EXTVLCOPT:http-origin=https://jlbfpc.jlbfyh.com
-#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Ge
-https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=1e9c0e088afc1beac50e81b202702951&txTime=681754a8
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ceEq0b.md.png", 19:10 WIB Borneo FC Samarinda vs Persija Jakarta
-#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTVLCOPT:http-connection-timeout=5000
-#EXTVLCOPT:http-reconnect=true
-https://tnt2-cf.boblcfwudz421.com/auth%3Dabdf1ba1c2121ab00eeb31131db3e803976da719e6c595984325332e2eca05e9286241f1f6918645d5fb14db08e515c54a18ba56418c5ec2683fbe78c40984ec9d4496743754fd00c6047e95a36c958c25c4f0db36b6152327a219b1d93ae5823ce5215563f09a3e31be6d01a967b05fdce3f04fa070f79f1b89f6b8909e8d44dfeb0f86b8aab568c17456022522b6bc89dda52b7182ac2fd00762223dbe4ae5%26cid%3Dys6pjqr7O8Uq8yB6gcbQu250427%26_v%3D2%26_r%3DFccCiu%26_vis%3Dc704f6c2b0f51371d80c527ce00cf3738209932ca88e1de9011863265554484f%26_vvs%3D9df239bf70747ef2e30a759c5e76e6e097154fc3e42be99602c09b8fbd087ced/transcode/c347241_480p.m3u8
-https://tnt2-cf.boblcfwudz421.com/auth%3D192c18392481697f03118b2da601f3640940fea5724b0539451e6ffd40b0379307bd2e0b3b66184d96806a552001460466e7c4d0675fddc2ba5e19d65604c149a0b3ac7e2229ef5158a5b08e4a4326e00d5bdd64b88241d2e9e2c565d7a6ae76bf82064e8d31cd75a4913a0f38dbe130f2ced34e99d73e3807d3a5496c0a810c89de9476ed857ba8e01bf9d2c8ed5e7271cf7b7c69cde0a5ce26440570c091c259c59cd7aadd56e32279b920e623708e80eb1d1911cc91f901c2adbc2ed34473900d4b28347bc6944cda6a948930cca049855099e0259d91b3b35bc934c10580%26cid%3Dys6pjqr7O8Uq8yB6gcbQu250427%26_v%3D2%26_r%3D633nWd%26_vis%3Dcac5f148e99a6a08f5a6d5fb3c8d4900b0d55ca850765756d615edb88016ec08%26_vvs%3Dd3c9ad9b5d70bd56294c0cfdc469f5e41f4ccd8bdef36884b1d064890ee413d1/transcode/c347241_480p.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckRSoJ.md.png", 17:30 WIB Empoli vs Lazio
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckRSoJ.md.png", 20:00 WIB Monza vs Atalanta
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckRSoJ.md.png", 23:00 WIB AS Roma vs Fiorentina
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3cehVQ2.md.png", 19:00 WIB Real Madrid vs Celta Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3cehVQ2.md.png",21:15 WIB Sevilla vs Leganes
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3cehVQ2.md.png", 23:30 WIB Espanyol vs Real Betis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 20:00 WIB Brentford vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 20:00 WIB Brighton vs Newcastle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 20:00 WIB West Ham vs Tottenham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3ckn0Ss.png", 22:30 WIB Chelsea vs Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3cek5B4.png", 20:30 WIB Augsburg vs Kiel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 group-title="EVENT 4/MEI/2025" tvg-logo="https://iili.io/3cek5B4.png", 22:30 WIB Freiburg vs Bayer Leverkusen
-
-#EXTINF:-1 group-title="EVENT 5/MEI/2025" tvg-logo="https://iili.io/3cek5B4.png", 00:30 WIB Mainz 05 vs Eintracht Frankfurt
-
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 5/MEI/2025" tvg-logo="https://iili.io/3ckRSoJ.md.png", 01:45 WIB Bologna vs Juventus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 5/MEI/2025" tvg-logo="https://iili.io/3cehVQ2.md.png", 02:00 WIB Real Sociedad vs Athletic Bilbao
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-id="EVENT" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270277_252254.jpg" group-title="EVENT",EVENT
-#EXTINF:-1 tvg-id="YTN" tvg-logo="https://iili.io/JmoiJMN.png" group-title="KBS",MBC
-#EXTINF:-1 tvg-id="EVENT" tvg-logo="https://images.seeklogo.com/logo-png/44/1/kbs-n-logo-png_seeklogo-447544.png" group-title="KBS",NAVER TV
-#EXTINF:-1 tvg-id="YTN" tvg-logo="https://phinf.pstatic.net/tvcast/20200318_139/LpMcx_1584510782869YJJDK_JPEG/1584510782847.jpg" group-title="KBS",YTN
-
-#EXTINF:-1 tvg-id="EXTRA" tvg-logo="https://instagram.fsub8-2.fna.fbcdn.net/v/t51.29350-15/295203996_111898661597095_6920509459269505381_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTQ0MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fsub8-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QGJvEKFR7ICG50Z1DT_4uAJCuOmZyVZRx0-LAdW6Y6HKqdu-lUTWsfb7PuuF8btLk4&_nc_ohc=_I6uNr6lOfUQ7kNvwGARyzH&_nc_gid=z9mRRYLE8m8oVfmV1ygzAw&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=Mjg4ODA5NDg5NzkxMzMyMDUzNA%3D%3D.3-ccb7-5&oh=00_AfE7-Fz8mCF2nB1bam8q_MOHWPslJbsd9SUJmOawNG79oA&oe=6810D2B3&_nc_sid=22de04" group-title="EVENT",EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-
-
-EXTINF:-1 tvg-id="BEIN SPORTS EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6FCtTbvtydCV9o3YXOQnxL_HTc-CuQEV10ZdD4psQzPc04LXCRImWYjVXOa5uxoBGhU&usqp=CAU" group-tittle="TEST" BEIN SPORTS EN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 
 <======================== Premium Movies ==========================>
 
@@ -487,13 +362,19 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="SPORTS",Abu Dhabi Sports Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/xuFbLf7.png",Dubai Sports 1 
@@ -966,7 +847,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
-#EXTINF:-1 tvg-id="RTA3" tvg-logo="" group-title="SPORTS",RTA3
+#EXTINF:-1 tvg-id="RTA3" tvg-logo="data:image/jpeg;base64,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" group-title="SPORTS",RTA3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
