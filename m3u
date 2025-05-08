@@ -494,6 +494,115 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
+###########-----MOVIES-----###############
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWNh329KhG2xddqsqAIDretyRsvSFdlxayw5n_OgfP1DokStAsftlwIZF&s=10" group-title="Movies",HBO(play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://extraott.com:80/live/6945574629/7169628753/191943.m3u8
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTom9_oVdJ8-GTcYuUvpWYj41qK2Lvj3F2_bQ&usqp=CAU" group-title="Movies",HBO(play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKuRQW4Dx0J0jHoGFPS3_WdZKVuoaHdxewg&s" group-title="Movies",HBO Family (play)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598
+
+#EXTINF:-1 tvg-id="" tvg-name="Siar" tvg-logo="https://link.zozotv.xyz/pic/SiarZozo.png" group-title="Movies",Siar 
+https://zozotv.xyz:443/live/zotv744/zxy086/1912.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="Movies",Dunia Senima 
+https://zozotv.xyz:443/live/zotv744/zxy086/1909.ts 
+
+#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="Movies",Degup 
+https://zozotv.xyz:443/live/zotv744/zxy086/1908.ts 
+
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Movies",BOO (Malay) 
+https://zozotv.xyz:443/live/zotv744/zxy086/408.ts 
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO 
+https://zozotv.xyz:443/live/zotv744/zxy086/96.ts 
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO (ID) 
+https://zozotv.xyz:443/live/zotv744/zxy086/693.ts 
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movies",HBO Hits 
+https://zozotv.xyz:443/live/zotv744/zxy086/97.ts 
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movies",HBO Family 
+https://zozotv.xyz:443/live/zotv744/zxy086/98.ts 
+
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movies",HBO Signature 
+https://zozotv.xyz:443/live/zotv744/zxy086/99.ts 
+
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="Movies",ShowCase Movies 
+https://zozotv.xyz:443/live/zotv744/zxy086/385.ts 
+
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action" tvg-logo="https://i.ibb.co/QP8mWrs/1678073936036.png" group-title="Movies",Rock Action 
+https://zozotv.xyz:443/live/zotv744/zxy086/89.ts 
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Movies",Galaxy 
+https://zozotv.xyz:443/live/zotv744/zxy086/108.ts 
+
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="Movies",Galaxy Premium 
+https://zozotv.xyz:443/live/zotv744/zxy086/109.ts 
+
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Movies",Cinemax 
+https://zozotv.xyz:443/live/zotv744/zxy086/107.ts 
+
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://link.zozotv.xyz/pic/Cinemachi.png" group-title="Movies",Cinemachi 
+https://zozotv.xyz:443/live/zotv744/zxy086/2000.ts 
+
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://link.zozotv.xyz/pic/CinemachiAction.png" group-title="Movies",Cinemachi Action 
+https://zozotv.xyz:443/live/zotv744/zxy086/1999.ts 
+
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi MAX" tvg-logo="https://link.zozotv.xyz/pic/CinemachiMax.png" group-title="Movies",Cinemachi MAX 
+https://zozotv.xyz:443/live/zotv744/zxy086/1998.ts 
+
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://link.zozotv.xyz/pic/CinemachiXtra.png" group-title="Movies",Cinemachi Xtra 
+https://zozotv.xyz:443/live/zotv744/zxy086/1997.ts 
+
+#EXTINF:-1 tvg-id="Cinemachi Kids" tvg-name="Cinemachi Kids" tvg-logo="https://link.zozotv.xyz/pic/CinemachiKids.png" group-title="Movies",Cinemachi Kids 
+https://zozotv.xyz:443/live/zotv744/zxy086/1996.ts 
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="Movies",CinemaWorld 
+https://zozotv.xyz:443/live/zotv744/zxy086/111.ts 
+
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="https://i.imgur.com/432Y3wu.png" group-title="Movies",My Cinema 
+https://zozotv.xyz:443/live/zotv744/zxy086/394.ts 
+
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/m5Z3kJ2.png" group-title="Movies",My Cinema Asia 
+https://zozotv.xyz:443/live/zotv744/zxy086/395.ts 
+
+#EXTINF:-1 tvg-id="My Family" tvg-name="My Family" tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="Movies",My Family 
+https://zozotv.xyz:443/live/zotv744/zxy086/396.ts 
+
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="Movies",&Prive HD 
+https://zozotv.xyz:443/live/zotv744/zxy086/105.ts 
+
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Movies",&Flix HD 
+https://zozotv.xyz:443/live/zotv744/zxy086/104.ts 
+
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Movies",Sony PIX 
+https://zozotv.xyz:443/live/zotv744/zxy086/298.ts 
+
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="Movies",Star Movies 
+https://zozotv.xyz:443/live/zotv744/zxy086/299.ts 
+
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movies",Star Movies Select 
+https://zozotv.xyz:443/live/zotv744/zxy086/300.ts 
+
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",HITS Movies 
+https://zozotv.xyz:443/live/zotv744/zxy086/110.ts 
+
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Movies",Thrill 
+https://zozotv.xyz:443/live/zotv744/zxy086/112.ts 
+
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Movies",IMC 
+https://zozotv.xyz:443/live/zotv744/zxy086/113.ts 
+
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="Movies",Flik 
+https://zozotv.xyz:443/live/zotv744/zxy086/114.ts<
 
 
 <=================== Entertainment & Lifestyle =============================>
@@ -1680,7 +1789,399 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_500000=10007-mp4a_
 
 
 
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN  SPORT 01 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN  SPORT 01 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49598
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORT 02 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 02 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49599
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORT 03 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 03 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49600
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORT 04 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 04 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49601
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORT 05 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 05 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49602
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORT 06 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 06 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49603
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN SPORT 07 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 07 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49604
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN SPORT 08 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 08 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49605
+#EXTINF: tvg-id="beINSports9.qa" tvg-name="beIN SPORT 09 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT 09 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49606
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="beIN SPORT XTRA 1 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT XTRA 1 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49611
+#EXTINF: tvg-id="beINSportsXtra2.qa" tvg-name="beIN SPORT XTRA 2 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT XTRA 2 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49612
+#EXTINF:-1 tvg-id="beINSportsXtra3.qa" tvg-name="beIN SPORT XTRA 03 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT XTRA 03 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49613
+#EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-name="beIN SPORT NBA" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT NBA
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49614
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORT AFC-HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN SPORT AFC-HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/49615
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-1 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN AFC-1 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/363392
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-2 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN AFC-2 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/363394
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-3 HD" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN AFC-3 HD
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/363396
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-4 hd" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN AFC-4 hd
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/363398
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-5 hd" tvg-logo="" group-title="AR | BEIN SPORTS HD",beIN AFC-5 hd
+#EXTGRP: BEIN [HD]
+http://ktvs.xyz:8080/Amber36/35897447/363400
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN SPORT 01 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 01 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49576
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORT 02 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 02 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49577
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORT 03 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 03 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49578
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORT 04 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 04 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49579
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORT 05 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 05 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49580
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORT 06 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 06 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49581
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN SPORT 07 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 07 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49582
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN SPORT 08 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 08 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49583
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN SPORT 09 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT 09 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49584
+#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-name="beIN SPORT XTRA 1 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT XTRA 1 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49585
+#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-name="beIN SPORT XTRA 2 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT XTRA 2 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49586
+#EXTINF:-1 tvg-id="beINSportsXtra3.qa" tvg-name="beIN SPORT XTRA 03 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT XTRA 03 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49587
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORT AFC-FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN SPORT AFC-FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/49588
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-1 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN AFC-1 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/363391
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-2 FHD" tvg-logo="" group-title="AR | BEIN SPORTS 4K",beIN AFC-2 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/363393
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-3 FHD" tvg-logo="" group-title="AR | BEIN SPORTS 4K",beIN AFC-3 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/363395
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-4 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN AFC-4 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/363397
+#EXTINF:-1 tvg-id="" tvg-name="beIN AFC-5 FHD" tvg-logo="" group-title="AR | BEIN SPORTS HEVC",beIN AFC-5 FHD
+#EXTGRP: BEIN [FHD]
+http://ktvs.xyz:8080/Amber36/35897447/363399
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN SPORT 01 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 01 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49522
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORT 02 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 02 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49523
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORT 03 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 03 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49524
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORT 04 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 04 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49525
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN SPORT 05 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 05 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49526
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORT 06 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 06 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49527
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN SPORT 07 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 07 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49528
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN SPORT 08 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 08 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49529
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN SPORT 09 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT 09 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49530
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORT AFC-SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT AFC-SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49531
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT XTRA 03 SD" tvg-logo="" group-title="AR | BEIN SPORTS SD",beIN SPORT XTRA 03 SD
+#EXTGRP: BEIN [SD]
+http://ktvs.xyz:8080/Amber36/35897447/49532
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN SPORT 1 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 1 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49589
+#EXTINF:-1 tvg-id="beINSports2.fr" tvg-name="beIN SPORT 2 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 2 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49590
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="beIN SPORT 3 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 3 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49591
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN SPORT 4 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 4 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49592
+#EXTINF:-1 tvg-id="beINSports5USA.us" tvg-name="beIN SPORT 5 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 5 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49593
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN SPORT 6 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 6 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49594
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN SPORT 7 [low]" tvg-logo="" group-title="AR | BEIN SPORTS LOW",beIN SPORT 7 [low]
+#EXTGRP: BEIN [low]
+http://ktvs.xyz:8080/Amber36/35897447/49595
+#EXTINF:-1 tvg-id="" tvg-name="SSC-NEWS HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-NEWS HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49651
+#EXTINF:-1 tvg-id="" tvg-name="SSC-1 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-1 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49652
+#EXTINF:-1 tvg-id="" tvg-name="SSC-2 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-2 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49653
+#EXTINF:-1 tvg-id="" tvg-name="SSC-3 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-3 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49654
+#EXTINF:-1 tvg-id="" tvg-name="SSC-4 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-4 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49655
+#EXTINF:-1 tvg-id="" tvg-name="SSC-5 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-5 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49656
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 1 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 1 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49657
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 2 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 2 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49658
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 3 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 3 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49659
+#EXTINF:-1 tvg-id="" tvg-name="SSC-1 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-1 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49660
+#EXTINF:-1 tvg-id="" tvg-name="SSC-2 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-2 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49661
+#EXTINF:-1 tvg-id="" tvg-name="SSC-3 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-3 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49662
+#EXTINF:-1 tvg-id="" tvg-name="SSC-4 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-4 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49663
+#EXTINF:-1 tvg-id="" tvg-name="SSC-5 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-5 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49664
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 1 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 1 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49665
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 2 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 2 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49666
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 3 4K" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 3 4K
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49667
+#EXTINF:-1 tvg-id="" tvg-name="SSC-4K [3840×2160]" tvg-logo="" group-title="AR | SSC SPORTS",SSC-4K [3840×2160]
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49668
+#EXTINF:-1 tvg-id="" tvg-name="SSC-1 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-1 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49669
+#EXTINF:-1 tvg-id="" tvg-name="SSC-2 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-2 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49670
+#EXTINF:-1 tvg-id="" tvg-name="SSC-3 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-3 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49671
+#EXTINF:-1 tvg-id="" tvg-name="SSC-4 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-4 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49672
+#EXTINF:-1 tvg-id="" tvg-name="SSC-5 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-5 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49673
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 1  sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 1  sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49674
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 2 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 2 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49675
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA 3 sd" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA 3 sd
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49676
+#EXTINF:-1 tvg-id="" tvg-name="SSC-1(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-1(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49677
+#EXTINF:-1 tvg-id="" tvg-name="SSC-2(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-2(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49678
+#EXTINF:-1 tvg-id="" tvg-name="SSC-3(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-3(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49679
+#EXTINF:-1 tvg-id="" tvg-name="SSC-STC  SPORT 1 HD" tvg-logo="" group-title="AR | SSC SPORTS",SSC-STC  SPORT 1 HD
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49680
+#EXTINF:-1 tvg-id="" tvg-name="SSC-5(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-5(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49681
+#EXTINF: tvg-id="" tvg-name="SSC-EXTRA-1(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA-1(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49682
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA-2(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA-2(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49683
+#EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA-3(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA-3(multi sound)
+#EXTGRP: [SSC]
+http://ktvs.xyz:8080/Amber36/35897447/49684
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 FHD
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51881
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2 FHD
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51882
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 FHD
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51883
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 (Stc-Hd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51884
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2 (Stc-Hd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51885
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 (Stc-Hd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51886
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 (Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 (Stc-sd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51887
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2(Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2(Stc-sd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51888
+#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 (Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 (Stc-sd)
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51889
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-1" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-1
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51890
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-2" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-2
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51891
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-3" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-3
+#EXTGRP: StarzPlay
+http://ktvs.xyz:8080/Amber36/35897447/51892
+#EXTINF:-1 tvg-id="bein.sports.1.ae" tvg-name="BN028:Bein Sport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN028BeinSport1FHD.png" group-title="Arab Bein",BN028:Bein Sport 1 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59271
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN029:Bein Sport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN029BeinSport2FHD.png" group-title="Arab Bein",BN029:Bein Sport 2 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59270
+#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN030:Bein Sport 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN030BeinSport3FHD.png" group-title="Arab Bein",BN030:Bein Sport 3 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59269
+#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN031:Bein Sport 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN031BeinSport4FHD.png" group-title="Arab Bein",BN031:Bein Sport 4 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59268
+#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN032:Bein Sport 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN032BeinSport5FHD.png" group-title="Arab Bein",BN032:Bein Sport 5 FHD
+#EXTGRP [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59267
+#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN033:Bein Sport 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN033BeinSport6FHD.png" group-title="Arab Bein",BN033:Bein Sport 6 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59266
+#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN034:Bein Sport 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN034BeinSport7FHD.png" group-title="Arab Bein",BN034:Bein Sport 7 FHD
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/59265
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:Bein Sports 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="Arab Bein",BN022:Bein Sports 8
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/2120
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:Bein Sports " tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN023 Bein Sports Premium 2.png" group-title="Arab Bein",BN023:Bein Sports 
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/2119
+#EXTINF:-1 tvg-id="" tvg-name="BN025:Bein Sports " tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN025 Bein Sports Premium 3.png" group-title="Arab Bein",BN025:Bein Sports 
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/2117
+#EXTINF:-1 tvg-id="" tvg-name="ST009:SSC SPORT 1" tvg-logo="" group-title="Arab Sports",ST009:SSC SPORT 1
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/2091
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC477:SSC Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC477Medi1Sat.png" group-title="Arab Sports",AC477:SSC Sports 1
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27441
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC478:SSC Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC478Mehwar.png" group-title="Arab Sports",AC478:SSC Sports 2
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27440
+#EXTINF:-1 tvg-id="" tvg-name="AC479:SSC Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC479MekkeSaudiQuran.png" group-title="Arab Sports",AC479:SSC Sports 3
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27439
+#EXTINF:-1 tvg-id="" tvg-name="AC480:SSC Sports 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC480MELODYCINEMA.png" group-title="Arab Sports",AC480:SSC Sports 4
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27438
+#EXTINF:-1 tvg-id="" tvg-name="AC481:SSC Sports 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC481MELODYCLASSIC.png" group-title="Arab Sports",AC481:SSC Sports 5
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27437
+#EXTINF:-1 tvg-id="" tvg-name="AC483:SSC Sports 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/" group-title="Arab Sports",AC483:SSC Sports 6
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27435
+#EXTINF:-1 tvg-id="" tvg-name="AC488:SSC Sports 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/" group-title="Arab Sports",AC488:SSC Sports 7
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27430
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC262:AD SPORTS PREMIUM 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC262ADSPORTS3HD.png" group-title="Arabic general",AC262:AD SPORTS PREMIUM 1
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27656
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="AC263:AD SPORTS PREMIUM 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AC/AC263ADSPORTS4HD.png" group-title="Arabic general",AC263:AD SPORTS PREMIUM 2
+#EXTGRP: [IptvVip]
+http://ns1.iptvcodes.org:8880/D12m4288/22972676/27655
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----------------------------------------SPORTS--------------------------------------------------------
