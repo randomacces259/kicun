@@ -185,6 +185,252 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ytimg.com/vi/R8th8f1vBnY/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDsgUCh_MA8=&rs=AOn4CLAMq19Vyc9M-QuCqO0qU-vvmw33zg" group-title="INDO",Hanacaraka TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DuniaLain.png" group-title="04. Premium TV",001. DuniaLain
+https://wahyu1ptv.pages.dev/DuniaLain-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bioskop.png" group-title="04. Premium TV",002. BioskopIndonesia
+https://wahyu1ptv.pages.dev/BioskopIndonesia-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CitraBioskop.png" group-title="04. Premium TV",003. CitraBioskop
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/CitraBioskop-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CitraDrama.png" group-title="04. Premium TV",004. CitraDrama
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/CitraDrama-HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ChineseDrama.png" group-title="04. Premium TV", 005. ChineseDrama
+https://WahyuIPTV.short.gy/ChineseDrama.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MaxStream.png" group-title="04. Premium TV",006. Maxstream
+https://wahyu1ptv.pages.dev/MaxStream-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="04. Premium TV",007. Flik
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Flik-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/IMC.png" group-title="04. Premium TV",008. IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/IMC-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/VisionPrime.png" group-title="04. Premium TV",009. VisionPrime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/VisionPrime.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hits.png" group-title="04. Premium TV",010. Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Hits-HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HitsMovies.png" group-title="04. Premium TV",011. HitsMovies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/HitsMovies-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyCinemaAsia.png" group-title="04. Premium TV",012. MyCinemaAsia
+https://wahyu1ptv.pages.dev/MyCinemaAsia-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyCinema.png" group-title="04. Premium TV",013. MyCinema
+https://wahyu1ptv.pages.dev/MyCinema-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyFamilyChannel.png" group-title="04. Premium TV",014. MyFamilyChannel
+https://wahyu1ptv.pages.dev/MyFamilyChannel-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. Premium TV",015. eTvBioskop1
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. Premium TV",016. eTvBioskop2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. Premium TV",017. eTvBioskop3
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. Premium TV",018. eTvBioskop4
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Originals.png" group-title="04. Premium TV",019. Originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Originals.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cineedge.png" group-title="04. Premium TV",020. Cineedge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Cineedge.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Superrix.png" group-title="04. Premium TV",021. Superrix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Superrix.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Uniques.png" group-title="04. Premium TV",022. Uniques
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Uniques.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/StudioUniversal.png" group-title="04. Premium TV",023. StudioUniversal
+https://wahyu1ptv.pages.dev/StudioUniversal-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CinemaWorld.png" group-title="04. Premium TV",024. CinemaWorld
+https://wahyu1ptv.pages.dev/CinemaWorld-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Galaxy.png" group-title="04. Premium TV",025. Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/Galaxy.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GalaxyPremium.png" group-title="04. Premium TV",026. GalaxyPremium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/GalaxyPremium.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="04. Premium TV",027. Cinemax
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="04. Premium TV",028. HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="04. Premium TV",029. HboHits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="04. Premium TV",030. HboFamily
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="04. Premium TV",031. HboSignature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CCM.png" group-title="04. Premium TV",032. CCM
+https://wahyu1ptv.pages.dev/CCM-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CelestialMovies.png" group-title="04. Premium TV",033. CelestialMovies
+https://wahyu1ptv.pages.dev/CM-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Axn.png" group-title="04. Premium TV",034. AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/AXN-HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WarnerTV.png" group-title="04. Premium TV",035. WarnerTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/WarnerTV-HD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RockEntertainment.png" group-title="04. Premium TV",036. RockEntertainment
+https://wahyu1ptv.pages.dev/RockEntertainment-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RockAction.png" group-title="04. Premium TV",037. RockAction
+https://wahyu1ptv.pages.dev/RockAction-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Kix.png" group-title="04. Premium TV",038. KIX
+https://wahyu1ptv.pages.dev/KIX-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Thrill.png" group-title="04. Premium TV",039. Thrill
+https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVnMovies.png" group-title="04. Premium TV",040. tVnMovie
+https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/tVn.png" group-title="04. Premium TV",041. TnN
+https://wahyu1ptv.pages.dev/TvN-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KPlus.png" group-title="04. Premium TV",042. K-Plus
+https://wahyu1ptv.pages.dev/kPlus-HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/One.png" group-title="04. Premium TV",043. ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://WahyuIPTV.short.gy/One-HD.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KbsWorld.png" group-title="04. Premium TV",044. KbsWorld
+https://wahyu1ptv.pages.dev/KBSWorld-HD.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 ######################################################################KNOWLEDGE############################################################################################################################################# 
 
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="KNOWLEDGE",Asian Food Network
