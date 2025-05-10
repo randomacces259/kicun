@@ -966,7 +966,8 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1746890280
-https://d3d4p9hf00b0z6.cloudfront.net/out/v1/e6e8e002808344c3b471daef41ae34ed/index.mpd
+https://d3d4p9hf00b0z6.cloudfront.net/out/v1/e6e8e002808344c3b471daef41ae34ed/index.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A0-1080&start=1746890280
+
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHm63uSQ8LRcWZBagNhNdI-Gl9YKOd1YfBwIcGYPwvHXxCSTypK9vttU&s=10" group-title="SPORTS", MOTOR RACING TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
