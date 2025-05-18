@@ -186,17 +186,9 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
 
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OQM-OtNvSihRoWtcBNfY-yLqiaW0AbGmA&s" tvg-id="Indosiar HD - [Saluran 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT LIGA 1",Indosiar VIP
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 #############################################################MOVIES###################################################################
@@ -576,7 +568,7 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
-https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TvN movies HD
@@ -609,6 +601,128 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png" group-title="Korean Channels",new k-movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+======SPORT HD========
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium98/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium99/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 group-title="SPORT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 2
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 1 premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
+https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 2 premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="SPORTS",ESPN 1
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/639.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="SPORTD",ESPN 2
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/638.ts
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="SPORTS",ESPN 3
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/640.ts
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="SPORTS",ESPN 4
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/62.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="SPORTS",ESPN 5
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/60.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="SPORTS",ESPN 6
+#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
+http://firetop1.site/live/158717872/875587369/48.ts
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 1
+http://Supersonictv.live:8080/051778/805424/7626
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 2
+http://Supersonictv.live:8080/051778/805424/7629
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 3
+http://Supersonictv.live:8080/051778/805424/7630
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 4
+http://Supersonictv.live:8080/051778/805424/7633
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 5
+http://Supersonictv.live:8080/051778/805424/7634
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="SPORTS", DAZN PT 6
+http://Supersonictv.live:8080/051778/805424/7636
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                                                                            #SPORTS#
