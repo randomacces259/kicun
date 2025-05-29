@@ -233,7 +233,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/revision/latest/scale-to-width-down/1000?cb=20230517084450" group-title="movies",cctv 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/revision/latest/scale-to-width-down/1000?cb=20230517084450" group-title="movies",CCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://cdngb196.indihometv.com/atm/mpd-vo/CCTV_4/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ChineseDrama.png" group-title="movies",ChineseDrama
