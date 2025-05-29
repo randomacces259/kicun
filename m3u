@@ -233,7 +233,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 
 
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/revision/latest/scale-to-width-down/1000?cb=20230517084450" group-title="movies",cctv 4
+https://cdngb196.indihometv.com/atm/mpd-vo/CCTV_4/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ChineseDrama.png" group-title="movies",ChineseDrama
 https://cdn12jtedge.indihometv.com/joss/130/chinesedrama/chunklist_w351826202_b684100_sleng.m3u8?enc=QtHe8OUpHLr9SIgEVaZLXw&uid=&exp=1748499493
